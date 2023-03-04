@@ -4,9 +4,9 @@ Aprendi como implementar async/await no rust, fiz um pequeno programa para prati
 
 ## main.rs
 
-![arquivo main.rs](images/main.rs.png "conteudo do arquivo main.rs")
+![arquivo main.rs](https://github.com/jprando/rust_async/raw/main/images/main.rs.png "conteudo do arquivo main.rs")
 
 ### output
 
-![log](images/app_output.png "saida ao executar o app")
+![log](https://github.com/jprando/rust_async/raw/main/images/app_output.png "saida ao executar o app")
 

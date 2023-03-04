@@ -1,4 +1,4 @@
-# RASY - Rust Async
+# RASY - Rust ASYnc
 
 Aprendi como implementar async/await no rust, fiz um pequeno programa para praticar e fixar o que eu aprendi.
 
